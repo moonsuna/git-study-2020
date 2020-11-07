@@ -1,8 +1,17 @@
-.alert {
-  border: 5px solid rgba(41, 104, 151, 0.88);
-  width: 200px;
-  height: 200px;
-  background-color: pink;
-}
+/* Error: expected ";".
+ *    ,
+ * 36 |   li{
+ *    |     ^
+ *    '
+ *   sass\style.scss 36:5  root stylesheet */
 
-/*# sourceMappingURL=style.css.map */
+body::before {
+  font-family: "Source Code Pro", "SF Mono", Monaco, Inconsolata, "Fira Mono",
+      "Droid Sans Mono", monospace, monospace;
+  white-space: pre;
+  display: block;
+  padding: 1em;
+  margin-bottom: 1em;
+  border-bottom: 2px solid black;
+  content: 'Error: expected ";".\a    \2577 \a 36 \2502    li{\d\a    \2502      ^\a    \2575 \a   sass\\style.scss 36:5  root stylesheet';
+}
