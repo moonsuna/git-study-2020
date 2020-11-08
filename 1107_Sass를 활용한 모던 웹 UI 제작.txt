@@ -51,3 +51,5 @@ https://tadaktadak.co.kr/taja/jari.html?type=0&keyboardtype=smallen
 git push -f origin master (원격에서 변경이 된 사항
 때문에 원격 연동 푸시가 안되는 경우 강제로 덮어씌우는 경우- 위험함)
 git pull( 이것을 써야 함-원격을 가져와서 정보를 모든정보를 같이 쓸수있게 수락함) 
+git push origin master (푸시를 하는 명령어)
+git pull origin master (풀을 하는 명령어)
