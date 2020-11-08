@@ -1,0 +1,47 @@
+김데레사 선생님 git hub 주소
+https://github.com/seulbi/git-study
+
+이듬(EUID)
+youtube.com/이듬
+git 버전관리-소개편/-환경설정편/-로컬저장소 관리편/-원격저장소 관리편
+
+1. git - vs code - node
+
+node( Sass,자바스크입트를 사용하기 위해서 설치해야하는 프로그램)
+https://nodejs.org/ko/
+
+노드버전매니저(npm) 10버전/15버전-패키지매니저가 Sass를 쓸수 있게 도와줌
+
+BEM(네이밍패턴)
+http://getbem.com/
+
+노멀라이즈 CSS초기화
+https://necolas.github.io/normalize.css/
+https://necolas.github.io/normalize.css/8.0.1/normalize.css
+
+Sass
+https://sass-lang.com/
+Dart Sass
+https://sass-lang.com/dart-sass
+
+https://sass-lang.com/documentation/syntax
+https://sass-lang.com/documentation/syntax/parsing#input-encoding
+https://sass-lang.com/documentation/variables(변수)
+https://sass-lang.com/documentation/cli/dart-sass(글로벌npm설치)
+https://sass-lang.com/documentation/cli/dart-sass#watch
+https://sass-lang.com/documentation/cli/dart-sass#style
+
+https://sass-lang.com/documentation/variables#configuring-modules(변수)
+
+https://sass-lang.com/guide
+
+피그마
+https://www.figma.com/
+시안
+https://www.figma.com/file/xxGWMBciUEN4kVX7E2AcIC/Cafe-W?node-id=1%3A90
+
+생활코딩
+https://opentutorials.org/course/1
+
+타닥타닥 타자연습
+https://tadaktadak.co.kr/taja/jari.html?type=0&keyboardtype=smallen
