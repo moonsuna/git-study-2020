@@ -18,3 +18,4 @@ sass 중첩(.header .brand{ ... })
 sass 믹스인(mixin)
 sass 확장 (extend)
 sass 모듈(파일의 유형별로 분류)
+git pull 명령과 충돌문제 해결
